@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Highness Oliver, Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereto belonging: is humbly presented A Mediterranean passage by water between the two sea towns Lynn &amp; Yarmouth upon the two rivers the Little Owse, and Waveney. With farther results.</title>
+            <author>Mathew, Francis, Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50267</idno>
+            <idno type="STC">Wing M1287G</idno>
+            <idno type="STC">ESTC R215553</idno>
+            <idno type="EEBO-CITATION">99827402</idno>
+            <idno type="PROQUEST">99827402</idno>
+            <idno type="VID">31820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1892:6a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Highness Oliver, Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereto belonging: is humbly presented A Mediterranean passage by water between the two sea towns Lynn &amp; Yarmouth upon the two rivers the Little Owse, and Waveney. With farther results.</title>
+                  <author>Mathew, Francis, Esquire.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Gartrude Dawson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waterways --  England --  Early works to 1800.</term>
+               <term>Inland water transport --  England --  Early works to 1800.</term>
+               <term>Inland navigation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31820:1" rendition="simple:additions"/>
+            <p>To his Highneſs, OLIVER, LORD PROTECTOR Of the COMMON-WEALTH OF <hi>England, Scotland,</hi> and <hi>Ireland,</hi> AND The Dominions thereto belonging:</p>
+            <p>Is Humbly preſented A <hi>Mediterranean</hi> Paſſage by Water Between the Two Sea Towns <hi>LYNN</hi> &amp; <hi>YARMO<g ref="char:V">Ʋ</g>TH,</hi> Upon the Two RIVERS The Little <hi>OWSE,</hi> and <hi>WAVENEY. With farther Reſults.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Gartrude Dawſon,</hi> 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31820:2"/>
+            <pb facs="tcp:31820:2"/>
+            <head>To his Highneſs, OLIVER, Lord PROTECTOR of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving made my former Ad<g ref="char:EOLhyphen"/>dreſſes in this kind to your Highneſs concerning the Navigable Paſſage upon the Rivers <hi>Avon</hi> and <hi>Thames,</hi> between <hi>Briſtol</hi> and <hi>London,</hi> and finding that to have been a Service ſo acceptable to your
+<pb facs="tcp:31820:3"/>Highneſs as that your deep judgment approved thereof, as a thing very advantagious to the West and South of <hi>England,</hi> I thought good in this Paper to offer unto your Highneſs a Work no leſs beneficial to the North and Eaſt, that by this means all parts of this flouriſhing Common-wealth under your gracious Protection, might have cauſe to bleſs your Highneſs, and to be ſutors to your powerful hand for the allowance and per<g ref="char:EOLhyphen"/>formance of a Work ſo highly conducing to the Publick good,</p>
+            <closer>
+               <signed>
+                  <hi>By your Highneſs moſt Humble, and moſt Faithful Servant,</hi> Francis Mathew.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31820:3"/>
+            <head>A <hi>Mediterranean</hi> Paſſage by Water between the two <hi>Towns</hi> of <hi>Lynn</hi> and <hi>Yarmouth,</hi> &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hus I ſhall ſtate the buſineſſe which at preſent I intend to preſent to your powerful hand, and under your po<g ref="char:EOLhyphen"/>tent Protection to the whole Common wealth, the which Work is even already fram<g ref="char:EOLhyphen"/>ed to the end intended; that is, Nature having ſo bountifully concurred with her own endeavours to the effecting thereof, in undergoing the greateſt charge, which commonly is the chiefeſt ſtop in all buſineſſes of this nature.</p>
+            <p>The flouriſhing Havens of <hi>Lyn</hi> and <hi>Yarmouth</hi> being ſo Portuous, ſo much frequented with Shipping, and ſo plyed with Trade, it is apparent that the two
+<pb facs="tcp:31820:4"/>Counties adjoyning <hi>Norfolk</hi> and <hi>Suffolk</hi> receive much comfort thereby, being more indulgently dealt with<g ref="char:EOLhyphen"/>al by their two Havens then remoter parts, as particu<g ref="char:EOLhyphen"/>larly aſſiſted by their importations, furniſhed by that means with many Forreign commodities, which come flowing into thoſe Ports.</p>
+            <p>Theſe two Rivers above named, the <hi>little Owſe</hi> and <hi>Waveney,</hi> running as it were between the two Ha<g ref="char:EOLhyphen"/>vens, and in a manner dividing thoſe two Counties, were they opened for Navigation, would very much encreaſe the benefit both to thoſe Haven Towns, in venting of thoſe their Importations, as alſo prove a great eaſe to the ſaid two Counties to have ſo facile and cheap a paſſage made to bring thoſe Commodities unto them, and withal thereby to vent what they pro<g ref="char:EOLhyphen"/>duce of their own.</p>
+            <p>Theſe two Rivers are ſo favourably caſt by Na<g ref="char:EOLhyphen"/>ture, as in the Winter (when they will be moſt for uſe) the Heads of them already almoſt meet, at a place called <hi>Loppham-Bridge,</hi> where a Navigable Channel being cut, (in length leſſe than a mile) the two Rivers would joyn for mutual Commerce from <hi>Lynn</hi> to <hi>Yarmouth;</hi> and withal Boats might reſt at a<g ref="char:EOLhyphen"/>ny place of theſe Rivers, there to make their Maga<g ref="char:EOLhyphen"/>zins of ſuch Forreign Importations, as the Countries adjoyning ſtand in need of; others might touch at e<g ref="char:EOLhyphen"/>very Market Town, there ſtanding at the leaſt ſix or ſe<g ref="char:EOLhyphen"/>ven upon, or very neer adjoyning to the ſaid Rivers; and within diſtance of ten miles very many Market Towns more, the which in the end of this Paper I ſhall ſet down, with their ſeveral diſtances from thoſe two Rivers; which Rivers I obſerve to lie ſo neer upon a <hi>Level,</hi> as few <hi>Saſſes</hi> will be required, to leſſen the
+<pb n="7" facs="tcp:31820:4"/>charge. What a bleſſing and eaſe would this afford to all the Inhabitants neer adjoyning, upon all Mar<g ref="char:EOLhyphen"/>ket daies (as they do in <hi>Flanders</hi>) to carry them<g ref="char:EOLhyphen"/>ſelves and their Commodities by Water (avoyding thoſe deep waies in the Winter ſeaſon, eſpecially on <hi>Suffolk</hi> ſide) from Town to Town, from Market to Market, at ſuch rates, as will not be conſiderable, if compared to their charge and trouble in going by Horſe or Cart?</p>
+            <p>Theſe advantages for the increaſe of Commerce, and Trade, your Highneſs wiſdom will ſoon pene<g ref="char:EOLhyphen"/>trat and give heat unto, by your potent approbati<g ref="char:EOLhyphen"/>on, your Highneſs being generally obſerved to be moſt zealous in the ſetting forward of Trade, taking ſo much to heart the increaſe thereof.</p>
+            <p>Neither doth this Deſign of mine contain it ſelf within the verge of the aforeſaid two Rivers, nor in the advance of Trade brought into thoſe great Havens of <hi>Lynn</hi> and <hi>Yarmouth,</hi> but it reacheth higher, and extends to the uniting the In-land Commerce upon Rivers between the North and Eaſt of <hi>England,</hi> there being no obſtacle (were theſe two Rivers opened for Navigation) no hinderance at all, (but that which our careleſneſs hath negligently caſt aſide, and made not uſe of for many years) to impead our Na<g ref="char:EOLhyphen"/>vigation upon Rivers within the Land, from the Ha<g ref="char:EOLhyphen"/>ven of <hi>Yarmouth,</hi> to the Citie of <hi>York.</hi>
+            </p>
+            <p>Our <hi>Henry</hi> the firſt, (as Mr. <hi>Camden</hi> well obſer<g ref="char:EOLhyphen"/>veth in his deſcription of <hi>Lincolne ſhire</hi>) cut a Chan<g ref="char:EOLhyphen"/>nel for the ſpace of ſeven miles from <hi>Torkſea</hi> upon the <hi>Trent</hi> down to the Citie of <hi>Lincolne,</hi> there to joyn with the River <hi>Witham,</hi> which falling into the Haven
+<pb n="8" facs="tcp:31820:5"/>of <hi>Boſton,</hi> come through the <hi>Iſle</hi> of <hi>Ely,</hi> into theſe our two Rivers the <hi>Litle Owſe</hi> and <hi>Waveney,</hi> and ſo to <hi>Yarmouth.</hi> Mr. <hi>Camden</hi> ſaith, this gallant King cau<g ref="char:EOLhyphen"/>ſed that memorable work of ſeven miles to be caſt up for the benefit of his Citie of <hi>Lincolne,</hi> though other Writers ſpeak of a mixt intention therein, as partly to facilitate his own <hi>Removes</hi> from one part of the Kingdome to another, he being the firſt King who brought <hi>Progreſſes</hi> into faſhion, ſo making his people equally participant of him, that they might ſee and know him better by himſelf, than by his picture.</p>
+            <p>He was an active and wiſe Prince, and as all Ru<g ref="char:EOLhyphen"/>lers of States have ever their deſigns headed with ſeve<g ref="char:EOLhyphen"/>ral ends, ſo might this King in this very work; as up<g ref="char:EOLhyphen"/>on any forreign invaſion, or domeſtick inſurrection, to tranſport from one ſide of the Kingdome to ano<g ref="char:EOLhyphen"/>ther his Army, without grievances to his people for billeting of his Souldiers through the Country as they paſſed, or tyring out his men with long Marches, but to have them ready for action upon a moment; for by this very work of his of ſeven miles, cut out for Na<g ref="char:EOLhyphen"/>vigation, (conjoyned to what Nature before had wrought) he might have tranſported an Army by Water, all within the Land from the Eaſt part of <hi>England</hi> into the North, without the leaſt noyſe of landing, and have been upon his enemies before they dreampt of him, in this ſilent and covered way. How<g ref="char:EOLhyphen"/>ſoever his ends were, it was a noble work, and a gift worthy to come from a Crown, it being <hi>the firſt Pre<g ref="char:EOLhyphen"/>ſident that I have found in England of joyning Rivers for Navigation,</hi> which ſhoweth (even then) how forward, and prone toward Improvement this King<g ref="char:EOLhyphen"/>dom was.</p>
+            <pb n="9" facs="tcp:31820:5"/>
+            <p>But what an unworthy neglect thereof hath been in theſe latter times, I bluſh to write <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> To let it fall, to be of no uſe, and the Work (though yet extant) to lye empty, waſte, and dry, far from the intention of the Royal giver <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in ſo much as now Sheep and Cattel graze, where for<g ref="char:EOLhyphen"/>merly Barks have ſayled, and perhaps a King in them.</p>
+            <p>This Work, or Channel of 7 miles, commonly called <hi>Foſſe Dike,</hi> were it repaired, and the Banks in ſome places made up, would eaſily again be made capable of Navigation, and revive that ſafe, rich, and large extended Commerce, which by that means did formerly ſpread it ſelf within the Land, and would open the paſſage for Boats, as hath been ſaid, between <hi>York</hi> and <hi>Yarmouth,</hi> to the unſpeakable comfort or very many Towns and Villages lying near, and upon the Paſſage, and would yield a general benefit both to the Eaſt and North of <hi>England,</hi> and by participation all <hi>England</hi> over.</p>
+            <p>It hath been obſerved upon <hi>Level</hi> taken, that the <hi>Trent</hi> lyeth lower than <hi>Foſſe Dike</hi> by Two Foot, or thereabouts, ſo that of neceſſity in that place there muſt be <hi>A Saſſe</hi> to draw, and let down the Boats. And in<g ref="char:EOLhyphen"/>deed if we look upon our Sea Coaſts of <hi>Lincolnſhire</hi> and <hi>Norfolk,</hi> they are ſo wanting of Harbours, and of places to relieve Ships in, in time of ſtreſſe, eſpe<g ref="char:EOLhyphen"/>cially upon a ſtrong Eaſterly Wind, as I may well term them importuous, for any Ships of Burden, ſo that in the Winter time (when our inland paſſage will be moſt in play) the great frequented Haven of <hi>Hull</hi> will be willing to ſerve it ſelf with theſe Rivers Navig<g ref="char:EOLhyphen"/>able, for the more ſafe conduct of their Merchandize into the Eaſt parts of <hi>England.</hi>
+            </p>
+            <pb n="10" facs="tcp:31820:6"/>
+            <p>Theſe, and the further advantages of this ſecure Tranſportation of all Commodities within the Land upon Rivers, between the North and Eaſt of <hi>England</hi> all the Winter ſeaſon (when the Coaſt is ſo dangerous) I need not any further ſet forth to your Highneſs, whoſe Wiſdom will ſoon imbrace them all, and accor<g ref="char:EOLhyphen"/>dingly reflect upon them to the benefit of the publick.</p>
+            <p>One thing I had almoſt omitted, amongſt the many helps which the opening for Navigation of theſe Two Rivers between <hi>Norfolk</hi> and <hi>Suffolk</hi> would afford thoſe Counties, that is, the ſupply of <hi>Fuel,</hi> which by this means may be brought unto them with great facilety, <hi>Sea Coal</hi> now ſupplying the defects of our <hi>Wood</hi> ſo much theſe latter years conſumed, and I may well ſay deſtroyed.</p>
+            <p>And were <hi>Foſſe Dike</hi> repaired for Navigation (which now lieth waſte) what a recruit would that alſo bring to all the Eaſt parts of <hi>England,</hi> by Tranſporting this way <hi>out of Nottingham-ſhire, Darby-ſhire,</hi> &amp; <hi>Leiceſter-ſhire, Pitt Coal</hi> (which in Forrein parts they call <hi>Scots Coal</hi>) which in abundance might be fetched by the help of this paſſage.</p>
+            <p>Though in this very point <hi>Caution</hi> were to be had; that no ſuch <hi>Coal</hi> ſhould be carried out of thoſe Coun<g ref="char:EOLhyphen"/>ties this way, but from Pitts new ſunk, and from pla<g ref="char:EOLhyphen"/>ces where <hi>Coals</hi> have not been ſought. That the inhabi<g ref="char:EOLhyphen"/>tants of thoſe parts ſhould not ſuffer by this exportati<g ref="char:EOLhyphen"/>on: And I ſhall make evident to your Highneſs, that there are indeficient Mynes of this <hi>Coal</hi> to ſupply this Trade abundantly, where never any yet were ſought for, and not in any far diſtance from the River of <hi>Trent;</hi> the State contracting with the owners of the Soyle (much of that Soyle is now already in the poſſeſſi<g ref="char:EOLhyphen"/>on
+<pb n="11" facs="tcp:31820:6"/>on of the State) ſo that by this means no prejudice ſhould ariſe to the Inhabitants.</p>
+            <p>Moreover at <hi>Boſton</hi> (where they muſt paſs) there might be a <hi>Magzine</hi> for that <hi>Coal,</hi> either for us to Tranſport, or for Forreiners to fetch them there,<note place="margin">But much fitter for us to do it.</note> which would raiſe a very great <hi>Revenue</hi> to the State, that <hi>Coal</hi> being ſold in Forrein parts by weight, at very high Rates.</p>
+            <p>
+               <hi>This</hi> Paper <hi>out of my bounden Reſpect, and Duty to your Highneſs, I offer unto your Prudence and deep Con<g ref="char:EOLhyphen"/>ſideration, I conceiving it to contain matter of very great Honour to your Highneſs, and no leſs benefit and comfort to the whole Commons Wealth.</hi>
+            </p>
+            <p>
+               <hi>Rivers running through the Earth, at the Veins of that Body, which Opened in due time, and with good advice, give comfort and refreſhments to all the Earth they run through, like to the veins in our bodies, which being open<g ref="char:EOLhyphen"/>ed by the advice of the learned Phyſitian, reſtore health, repair ſtrength to the decaying man, and brings him into a flouriſhing condition.</hi>
+            </p>
+            <p>
+               <hi>By this Paſſage your Highneſs will ſee all Forreign Commodities brought into us from the Eaſt parts of the world equally diſtributed, to the North and Eaſt of</hi> Eng<g ref="char:EOLhyphen"/>land; <hi>As by the former Deſign of Opening the Rivers between</hi> Briſtol <hi>and</hi> London, <hi>all the Weſtern Commodi<g ref="char:EOLhyphen"/>ties brought in from abroad, were to be Communicated to the Weſt and South of</hi> England.</p>
+            <p>Deſignes worthy to be brought forth under the happy Protection of your Highneſs.</p>
+         </div>
+         <div type="list">
+            <pb n="12" facs="tcp:31820:7"/>
+            <head>Market-Townes Standing upon, or near The Little Owſe<g ref="char:punc">▪</g> AND VVAVENEY.</head>
+            <list>
+               <item>Brandon,</item>
+               <item>Thetford.</item>
+               <item>Dis,</item>
+               <item>Harleſton,</item>
+               <item>Bungey,</item>
+               <item>Beckles.</item>
+               <item>Leſtof,</item>
+               <item>Yarmouth.</item>
+            </list>
+         </div>
+         <div type="list">
+            <pb n="13" facs="tcp:31820:7"/>
+            <head>OTHER Market-Towns Within ten Miles of theſe RIVERS</head>
+            <list>
+               <item>FRom <hi>Beckles</hi> to <hi>Yarmouth</hi> 9 miles<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>From <hi>Beckles</hi> to <hi>Leſtof</hi> 8 miles</item>
+               <item>From <hi>Bungey</hi> to <hi>Norwich</hi> 10 miles</item>
+               <item>From <hi>Yarmouth</hi> to <hi>Norwich</hi> already a Na<g ref="char:EOLhyphen"/>vigable paſſage</item>
+               <item>From <hi>Harleſtone</hi> to <hi>Windham</hi> 9 miles</item>
+               <item>From <hi>Dis</hi> to <hi>Windham</hi> 10 miles</item>
+               <item>From <hi>Loppham<g ref="char:punc">▪</g>Bridge</hi> to <hi>Higham</hi> 10 miles</item>
+               <pb n="14" facs="tcp:31820:8"/>
+               <item>From <hi>Loppham</hi> to <hi>Harling</hi> 3 miles</item>
+               <item>From <hi>Loppham</hi> to <hi>Bucknam</hi> 5 miles</item>
+               <item>From <hi>Thetford</hi> to <hi>Watton</hi> 9 miles</item>
+               <item>From <hi>Brandon</hi> to <hi>Swaſham</hi> 10 miles</item>
+               <item>From <hi>Beckles</hi> to <hi>Sowld</hi> 9 miles</item>
+               <item>From <hi>Beckles</hi> to <hi>Harleſton</hi> 7 miles</item>
+               <item>From <hi>Bungey</hi> to <hi>Harleſton</hi> 7 miles</item>
+               <item>From <hi>Harleſton</hi> to <hi>Framlingham</hi> 8 miles</item>
+               <item>From <hi>Dis</hi> to <hi>Buddeſdall</hi> 3 miles</item>
+               <item>From <hi>Dis</hi> to <hi>Debenham</hi> 9 miles</item>
+               <item>From <hi>Dis</hi> to <hi>Aye</hi> 3 miles</item>
+               <item>From <hi>Loppham</hi> to <hi>Wolpett</hi> 9 miles</item>
+               <item>From <hi>Loppham</hi> to <hi>Stow</hi> 9 miles</item>
+               <item>From <hi>Loppham</hi> to <hi>Nedeham</hi> 10 miles</item>
+               <item>From <hi>Brandon</hi> to <hi>Mildnall</hi> 6 miles</item>
+            </list>
+            <p>All theſe Market-Towns, beſides innu<g ref="char:EOLhyphen"/>merable Villages, with many Gentlemens-Houſes
+<pb n="15" facs="tcp:31820:8"/>of Note, would ſo make uſe of theſe Two Rivers,<note place="margin">Being but one dayes Work for a Teem.</note> that a marvelous Trade would be driven upon them; and Sayling out of <hi>the Little Owſe,</hi> the Boats enter into <hi>the Great Owſe,</hi> which already is Navigable to <hi>Lynn,</hi> and to all the Towns within the <hi>Iſle</hi> of <hi>Ely,</hi> even up to <hi>Cambridge.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
